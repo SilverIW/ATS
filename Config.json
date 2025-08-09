@@ -1,0 +1,14 @@
+{
+  "ATS_API_TYPE"       : "ATSAPI",
+  "ATS_API_URL"        : "http://ats.codns.com",
+  "ATS_API_BASE"       : "{ATS_API_URL}:17000/basinf",
+  "ATS_API_USERS"      : "{ATS_API_URL}:17000/users",
+  "ATS_API_JISUS"      : "{ATS_API_URL}:17000/jisus"
+  "ATS_API_OPTMST"     : "{ATS_API_URL}:17000/optmst/{opt_code}",
+  "ATS_API_WOLMUL"     : "{ATS_API_URL}:17000/wolmuls/{base_amt}",
+  "ATS_API_TELE_MSG"   : "{ATS_API_URL}:18000/sendmsg",
+  "ATS_API_CHART"      : "{ATS_API_URL}:19000/chart/{base_dt}/{optcod}/{chart_dict}/{chart_cycle}?req_cnt={req_cnt}",
+  "ATS_API_CHARTEX"    : "{ATS_API_URL}:19000/chartex/{base_dt}/{call_optcod}/{put_optcod}/{chart_dict}/{chart_cycle}?req_cnt={req_cnt}",
+  "ATS_API_TELE_PHTOO" : "https://api.telegram.org/bot{telebotoken}/sendPhoto",
+  "ATS_API_TELE_FILE"  : "https://api.telegram.org/bot{telebotoken}/sendDocument",
+}
