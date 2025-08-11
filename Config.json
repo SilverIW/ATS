@@ -1,6 +1,6 @@
 {
   "ATS_MESSAGE": "TELEGRAM",
-  "ATS_API_TYPE": "ATSAPI",
+  "ATS_API_TYPE": "CREON",
   "ATS_API_URL": "http://ats.codns.com",
   "ATS_API_BASE": "{ATS_API_URL}:17000/basinf",
   "ATS_API_USERS": "{ATS_API_URL}:17000/users/{user_sid}",
